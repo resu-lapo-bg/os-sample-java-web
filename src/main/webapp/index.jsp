@@ -7,7 +7,7 @@
 	</script>
 </head>
 <body onload="javascript:test1();">
-<h2>Hello World with OpenShift!</h2>
+<h2>Hello World with OpenShift2!</h2>
 	
 </body>
 
