@@ -4,7 +4,12 @@
 		 http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
   <display-name>Sample Java Web Application</display-name>
-<!--   <servlet>
-  	<class></class>
-  </servlet> -->	
+ <servlet>
+ 	<servlet-name>cServlet</servlet-name>
+  	<servlet-class>vic.test1.CServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>cServlet</servlet-name>
+  	<url-pattern>/test1</url-pattern>
+  </servlet-mapping>	
 </web-app>
