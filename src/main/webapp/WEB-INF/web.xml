@@ -6,7 +6,7 @@
   <display-name>Sample Java Web Application</display-name>
  <servlet>
  	<servlet-name>cServlet</servlet-name>
-  	<servlet-class>vic.test1.CServlet</servlet-class>
+  	<servlet-class>vic.test1.CServlet1/servlet-class>
   </servlet>
   <servlet-mapping>
   	<servlet-name>cServlet</servlet-name>
