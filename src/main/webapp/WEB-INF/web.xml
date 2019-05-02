@@ -10,6 +10,6 @@
   </servlet>
   <servlet-mapping>
   	<servlet-name>cServlet</servlet-name>
-  	<url-pattern>/test1</url-pattern>
+  	<url-pattern>/**</url-pattern>
   </servlet-mapping>	
 </web-app>
