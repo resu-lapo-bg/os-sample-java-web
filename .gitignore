@@ -16,7 +16,8 @@ hs_err_pid*
 .idea
 .iml
 *.desc.txt
-target/**
-.settings/**
+/target/**
+/.settings
 .project
 .classpath
+*.patch
